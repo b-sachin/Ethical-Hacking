@@ -1,7 +1,7 @@
 # Ethical Hacking (2413CYM5T1)
 
 # Module 3
-# Lecture 10
+# Lecture 1
 # Enumeration Concepts and NetBIOS Enumeration
 
 **Duration:** 1 Hour
